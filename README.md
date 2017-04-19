@@ -1,2 +1,2 @@
 # tb_mm_crawler
-简单爬取淘宝淘女郎数据
+爬取淘宝[淘女郎](https://mm.taobao.com/json/request_top_list.htm)数据
